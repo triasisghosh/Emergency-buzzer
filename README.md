@@ -9,7 +9,7 @@ A simple buzzer that will trigger an alarm and send alert SMS to the family/frie
 # Instruction for coders
 * Add the required credentials inside the .json file in specified places.
 * If you use free version of Twilio, you need to register and verify a number in your [console at twilio](https://console.twilio.com)
-  so you can send SMS to the number. With premium account there is no rule. Also remember with free account you get only $15 which will be
+  so you can send SMS to the number. With premium account there is no such rule. Also remember with free account you get only $15 which will be
   spent on sending SMS's.
 * If you use free version of ipapi, you will get only 1000 request processing per month. There are many types of premium plans with different limits.
 
