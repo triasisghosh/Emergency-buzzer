@@ -1,5 +1,6 @@
 {
 "ipapi" : "Enter the ipapi key here between the double quotes",
 "twilio_sid" : "Enter the twilio SID here between the double quotes",
-"twilio_auth_id" : "Enter the twilio authentication key here between the double quotes"
+"twilio_auth_id" : "Enter the twilio authentication key here between the double quotes",
+"twilio_ph" : "Enter the twilio phone number here between the double quotes"
 }
