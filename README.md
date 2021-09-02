@@ -36,3 +36,5 @@ A simple buzzer that will trigger an alarm and send alert SMS to the family/frie
 in web-application for realtime use. Also instead of IP tracking, GPS need to be implemented for better accuracy.** 
 
 # Reach me
+* instagram @triasisghosh
+* linkedin at https://www.linkedin.com/in/triasis-ghosh-322b27201
