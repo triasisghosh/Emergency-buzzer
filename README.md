@@ -4,7 +4,7 @@ A simple buzzer that will trigger an alarm and send alert SMS to the family/frie
 # Manual for users
 * Add the required phone numbers in the contact.csv file without country code.
   Don't keep any other text in that file or put comma, simply add phone numbers in newlines.
-* AFter running the program press the buzzer and see.
+* After running the program press the buzzer and see.
 
 # Instruction for coders
 * Add the required credentials inside the .json file in specified places.
