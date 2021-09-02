@@ -1,5 +1,5 @@
 {
-"ipapi" : "8cf645244626c3c810dac50a343a4fe9",
-"twilio_sid" : "AC00a8ad43d883cc0c07fe03bfb4174c0b",
-"twilio_auth_id" : "1b958a16152ec6e9c096fb94012ba5f2"
+"ipapi" : "Enter the ipapi key here between the double quotes",
+"twilio_sid" : "Enter the twilio SID here between the double quotes",
+"twilio_auth_id" : "Enter the twilio authentication key here between the double quotes"
 }
