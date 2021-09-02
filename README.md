@@ -31,3 +31,8 @@ A simple buzzer that will trigger an alarm and send alert SMS to the family/frie
 * "contact.csv": This file contains the emergency phone numbers, where alerts to be sent on pressing buzzer.
 * "buzzer_img.png": The image of buzzer button.
 * "electric-buzz.wav": Audio file containing buzzer sound.
+
+**Please feel free to contribute in this project. This is a concept project, it need to be implemented in Android/iOS platform or
+in web-application for realtime use. Also instead of IP tracking, GPS need to be implemented for better accuracy.** 
+
+# Reach me
