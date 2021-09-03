@@ -6,10 +6,10 @@ A simple buzzer that will trigger an alarm and send alert SMS to the family/frie
   Don't keep any other text in that file or put comma, simply add phone numbers in newlines.
 * After running the program press the buzzer and see.
 
-# Instruction for coders
-* Add the required credentials inside the .json file in specified places.
-* If you use free version of Twilio, you need to register and verify a number in your [console at twilio](https://console.twilio.com)
-  so you can send SMS to the number. With premium account there is no such rule. Also remember with free account you get only $15 which will be
+# Instructions for coders or testers
+* Please generate access key from [ipapi](https://ipapi.com/) and SID, access key, phone number from [twilio](https://www.twilio.com/) and add the required credentials inside the    Access_keys.json file in specified places.
+* Remember, if you use free version of Twilio, you need to register and verify every number in your [console at twilio](https://console.twilio.com)
+  where you want to send SMS. With premium account there is no such rule. Also remember with free account you get only $15 which will be
   spent on sending SMS's.
 * If you use free version of ipapi, you will get only 1000 request processing per month. There are many types of premium plans with different limits.
 
