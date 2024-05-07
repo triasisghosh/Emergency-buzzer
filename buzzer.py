@@ -1,4 +1,4 @@
-#A Safety Buzzer that will trigger a alarm and send alert SMS along with your location to family/friends
+#.A Safety Buzzer that will trigger a alarm and send alert SMS along with your location to family/friends
 
 from twilio.rest import Client #twilio api is used for sending SMS
 import tkinter as tk #for GUI
